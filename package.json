@@ -11,10 +11,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hakula139/python-extension-pack"
+    "url": "https://github.com/hakulattic/python-extension-pack"
   },
   "bugs": {
-    "url": "https://github.com/hakula139/python-extension-pack/issues"
+    "url": "https://github.com/hakulattic/python-extension-pack/issues"
   },
   "icon": "icon.png",
   "engines": {
